@@ -1,4 +1,5 @@
-# Project-OOP-INT2204-2
+# Library System - Group13
+Member: Lê Tuấn Kiệt ,  Nguyễn Thị Thanh Thảo
 Năm học 2022-2023 học kỳ II
 
 Step 1: Fork this responsitory to your computer.
